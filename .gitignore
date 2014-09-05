@@ -1,2 +1,5 @@
+*.swp
+._*
 apikey
 Gemfile.lock
+/pkg/*
