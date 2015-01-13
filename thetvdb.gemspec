@@ -11,11 +11,4 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'nokogiri'
 
-  s.add_development_dependency 'rake'
-  s.add_development_dependency 'rspec'
-  s.add_development_dependency 'guard'
-  s.add_development_dependency 'guard-rspec'
-  s.add_development_dependency 'ruby-gntp'
-  s.add_development_dependency 'vcr'
-  s.add_development_dependency 'webmock'
 end
